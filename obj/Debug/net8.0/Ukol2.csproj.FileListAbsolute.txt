@@ -12,3 +12,4 @@
 /Users/ladapecnikova/Desktop/C# 2/Ukol2/Ukol2/obj/Debug/net8.0/Ukol2.pdb
 /Users/ladapecnikova/Desktop/C# 2/Ukol2/Ukol2/obj/Debug/net8.0/Ukol2.genruntimeconfig.cache
 /Users/ladapecnikova/Desktop/C# 2/Ukol2/Ukol2/obj/Debug/net8.0/ref/Ukol2.dll
+/Users/ladapecnikova/Desktop/C# 2/Ukol2/Ukol2/obj/Debug/net8.0/Ukol2.sourcelink.json

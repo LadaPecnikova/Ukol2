@@ -9,29 +9,29 @@ public class Program
 		
 		int padding = 45;
 		string text = @"""Hurry up, boy!"" shouted Uncle Vernon from the kitchen. ""What are you
-doing, checking for letter bombs?"" He chuckled at his own joke.
+        doing, checking for letter bombs?"" He chuckled at his own joke.
 
-Harry went back to the kitchen, still staring at his letter. He handed
-Uncle Vernon the bill and the postcard, sat down, and slowly began to
-open the yellow envelope.
+        Harry went back to the kitchen, still staring at his letter. He handed
+        Uncle Vernon the bill and the postcard, sat down, and slowly began to
+        open the yellow envelope.
 
-Uncle Vernon ripped open the bill, snorted in disgust, and flipped over
-the postcard.
+        Uncle Vernon ripped open the bill, snorted in disgust, and flipped over
+        the postcard.
 
-""Marge's ill,"" he informed Aunt Petunia. ""Ate a funny whelk. --.""
+        ""Marge's ill,"" he informed Aunt Petunia. ""Ate a funny whelk. --.""
 
-""Dad!"" said Dudley suddenly. ""Dad, Harry's got something!""
+        ""Dad!"" said Dudley suddenly. ""Dad, Harry's got something!""
 
-Harry was on the point of unfolding his letter, which was written on the
-same heavy parchment as the envelope, when it was jerked sharply out of
-his hand by Uncle Vernon.
+        Harry was on the point of unfolding his letter, which was written on the
+        same heavy parchment as the envelope, when it was jerked sharply out of
+        his hand by Uncle Vernon.
 
-""That's mine!"" said Harry, trying to snatch it back.
+        ""That's mine!"" said Harry, trying to snatch it back.
 
-""Who'd be writing to you?"" sneered Uncle Vernon, shaking the letter open
-with one hand and glancing at it. His face went from red to green faster
-than a set of traffic lights. And it didn't stop there. Within seconds
-it was the grayish white of old porridge.";
+        ""Who'd be writing to you?"" sneered Uncle Vernon, shaking the letter open
+        with one hand and glancing at it. His face went from red to green faster
+        than a set of traffic lights. And it didn't stop there. Within seconds
+        it was the grayish white of old porridge.";
 		
 		// Nez zacnes volat nejake stringove funkce na nejake stringove promenne, nezapomen overit, ze obsahuje smysluplnou hodnotu. Vysledek uloz do promenne 'textMaSmysl'.
         bool textMaSmysl = !string.IsNullOrEmpty(text);
